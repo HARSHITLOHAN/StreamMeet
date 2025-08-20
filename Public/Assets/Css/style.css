@@ -1,8 +1,0 @@
-body {
-    margin: 0;
-    font-family:'Roboto', Arial, sans-serif;
-    background-image: url(/Public/Assets/images/netflix.webp);
-    background-attachment: fixed;
-    background-repeat: repeat-y;
-    background-size: cover;
-} 
